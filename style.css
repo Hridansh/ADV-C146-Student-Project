@@ -1,0 +1,34 @@
+.heading{
+    width: 100%;
+    text-align: left;
+}
+
+.heading h3{
+    display: inline;
+}
+
+.heading button{
+    float: right;
+    border: 1px solid white;
+}
+
+#start, #status, #restart{
+    font-size: 22px;
+}
+
+.modal-dialog{
+    width: 90%;
+}
+
+p{
+    font-size: medium;
+    font-family: Impact, 'Arial Narrow Bold', sans-serif;
+    box-shadow: 8px 8px 8px cyan;
+}
+
+canvas {
+    border: 2px solid white;
+    border-radius: 10px;
+    margin-top: 130px;
+    box-shadow: 5px 5px 5px white;
+}
